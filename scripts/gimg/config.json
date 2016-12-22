@@ -1,0 +1,11 @@
+{
+  "command_strings":[
+    "hello world"
+  ],
+  "input_formats": [
+    "text",
+    "image"
+  ],
+  "controller_program": "python",
+  "run_program": "gimg.py"
+}
